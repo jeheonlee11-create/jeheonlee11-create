@@ -1,4 +1,4 @@
-I build software people have to trust: search that only reads what you allow and cites its evidence, records that prove they weren't changed, and retrieval whose quality is measured. First-year student in UC Berkeley's Management, Entrepreneurship & Technology program (EECS + Haas).
+I build software people have to trust: search that only reads what you allow and cites its evidence, records that prove they weren't changed, and retrieval whose quality is measured. Student in UC Berkeley's Management, Entrepreneurship & Technology program (EECS + Haas).
 
 **Selected work**
 
